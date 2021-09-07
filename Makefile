@@ -1,4 +1,4 @@
-BINARY := fblockchain
+BINARY := fblockchain.out
 
 all: build run
 
